@@ -9,7 +9,7 @@ $authorURL[URL;(Index)]
 
 ### Parameters
 - `URL` `(Type: URL || Flag: Emptiable)`: The link to set as the author hyperlink.
-- `Index` `(Type: Integer || Flag: Optional)`: To which embed the author URL will be added. [(learn more)](../resources/embedIndexes.md)
+- `Index` `(Type: Integer || Flag: Optional)`: To which embed the author URL will be added. [(learn more)](x.com/bdk_insider)
 
 ## Example
 ```
